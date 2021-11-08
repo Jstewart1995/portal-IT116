@@ -18,11 +18,11 @@ form>div {
     font-style:italic;
     font-size:70%;
     font-weight:bold;
-    color:#f00;
+    color:rgb(255, 0, 0);
 }
 
 input:required {
-      border: 1px solid red;
+      border: 1px solid rgb(255, 0, 0);
 }
 
 input:optional, textarea:optional {
